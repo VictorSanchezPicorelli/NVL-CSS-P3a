@@ -1,0 +1,18 @@
+h1{
+	color: #08088A;
+	size: 10px;
+  }
+header{
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	color: purple;
+    background-color: #d8da3d;
+       }
+       nav{text-align: center;}
+hr {border: 0; border-top: 1px solid #999; border-bottom: 1px solid #333; height:0;}
+section{
+	background-color: pink;
+	border: 2px solid #999; 
+	text-align: left;
+}
+
